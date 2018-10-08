@@ -1,0 +1,11 @@
+/Users/helen/workspace/csharp/exercises/lighteningExercisesClassesCSharp/bin/Debug/netcoreapp2.1/lighteningExercisesClassesCSharp.deps.json
+/Users/helen/workspace/csharp/exercises/lighteningExercisesClassesCSharp/bin/Debug/netcoreapp2.1/lighteningExercisesClassesCSharp.runtimeconfig.json
+/Users/helen/workspace/csharp/exercises/lighteningExercisesClassesCSharp/bin/Debug/netcoreapp2.1/lighteningExercisesClassesCSharp.runtimeconfig.dev.json
+/Users/helen/workspace/csharp/exercises/lighteningExercisesClassesCSharp/bin/Debug/netcoreapp2.1/lighteningExercisesClassesCSharp.dll
+/Users/helen/workspace/csharp/exercises/lighteningExercisesClassesCSharp/bin/Debug/netcoreapp2.1/lighteningExercisesClassesCSharp.pdb
+/Users/helen/workspace/csharp/exercises/lighteningExercisesClassesCSharp/obj/Debug/netcoreapp2.1/lighteningExercisesClassesCSharp.csprojAssemblyReference.cache
+/Users/helen/workspace/csharp/exercises/lighteningExercisesClassesCSharp/obj/Debug/netcoreapp2.1/lighteningExercisesClassesCSharp.csproj.CoreCompileInputs.cache
+/Users/helen/workspace/csharp/exercises/lighteningExercisesClassesCSharp/obj/Debug/netcoreapp2.1/lighteningExercisesClassesCSharp.AssemblyInfoInputs.cache
+/Users/helen/workspace/csharp/exercises/lighteningExercisesClassesCSharp/obj/Debug/netcoreapp2.1/lighteningExercisesClassesCSharp.AssemblyInfo.cs
+/Users/helen/workspace/csharp/exercises/lighteningExercisesClassesCSharp/obj/Debug/netcoreapp2.1/lighteningExercisesClassesCSharp.dll
+/Users/helen/workspace/csharp/exercises/lighteningExercisesClassesCSharp/obj/Debug/netcoreapp2.1/lighteningExercisesClassesCSharp.pdb
